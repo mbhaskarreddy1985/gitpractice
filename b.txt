@@ -2,3 +2,6 @@ dog
 elephant
 cat
 apple
+
+fox
+duck
